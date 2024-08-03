@@ -343,28 +343,28 @@
 
 
 
-    // Used for debug messages
-    function log(log, level, ...args) {
+    // // Used for debug messages
+    // function log(log, level, ...args) {
 
-        if(!debugMessages)
-            return;
+    //     if(!debugMessages)
+    //         return;
 
-        const prefix = '🔧 Remove Adblock Thing:';
-        const message = `${prefix} ${log}`;
-        switch (level) {
-            case 'error':
-                console.error(`❌ ${message}`, ...args);
-                break;
-            case 'log':
-                console.log(`✅ ${message}`, ...args);
-                break;
-            case 'warning':
-                console.warn(`⚠️ ${message}`, ...args);
-                break;
-            default:
-                console.info(`ℹ️ ${message}`, ...args);
-        }        
-    }
+    //     const prefix = '🔧 Remove Adblock Thing:';
+    //     const message = `${prefix} ${log}`;
+    //     switch (level) {
+    //         case 'error':
+    //             console.error(`❌ ${message}`, ...args);
+    //             break;
+    //         case 'log':
+    //             console.log(`✅ ${message}`, ...args);
+    //             break;
+    //         case 'warning':
+    //             console.warn(`⚠️ ${message}`, ...args);
+    //             break;
+    //         default:
+    //             console.info(`ℹ️ ${message}`, ...args);
+    //     }        
+    // }
 
 })();
 
