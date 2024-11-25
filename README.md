@@ -1,4 +1,8 @@
-# Remove the Adblock Popup from YOUTUBE
+# Note: It was an fun runing, making, mataining this project and having a fun battle against youtube to the point were youtube was aware of this project and activity taking measures against it and then we would find ways around it. But I dont have the time to maitain and run this project anymore.
+
+
+
+## Remove the Adblock Popup from YOUTUBE
 
 [![picture](Thumbnail.jpg?raw=true)](https://www.youtube.com/watch?v=jvSf10lgxs4&ab_channel=Joelmatic)
 
