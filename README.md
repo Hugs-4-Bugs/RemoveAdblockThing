@@ -20,6 +20,7 @@ This repository contains a userscript designed to remove the annoying "Ad blocke
 
 ## Installation
 
+
 1. **Install Tampermonkey**:
    If you haven't already, you need to install the Tampermonkey browser extension. You can find it for various browsers:
    - [Tampermonkey for Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
